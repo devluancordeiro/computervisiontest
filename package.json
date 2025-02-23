@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "ComputerVision": "file:",
     "react": "19.0.0",
-    "react-native": "0.78.0"
+    "react-native": "0.78.0",
+    "react-native-executorch": "^0.2.0",
+    "react-native-vision-camera": "^4.6.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

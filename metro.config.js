@@ -12,6 +12,7 @@ const config = {
       ...getDefaultConfig(__dirname).resolver.assetExts,
       'pte',
       'bin',
+      'tflite',
     ],
   },
 };
